@@ -1,0 +1,4 @@
+boto3
+simple-salesforce
+aws-lambda-powertools
+aws-lambda-powertools[pydantic]
